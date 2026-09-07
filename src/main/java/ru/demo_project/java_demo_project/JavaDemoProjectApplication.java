@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaDemoPlovectApplication {
+public class JavaDemoProjectApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(JavaDemoPlovectApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(JavaDemoProjectApplication.class, args);
+    }
 
 }
