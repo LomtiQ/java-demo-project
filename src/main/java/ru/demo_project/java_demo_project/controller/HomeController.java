@@ -1,4 +1,4 @@
-package ru.demo_project.java_demo_plovect.controller;
+package ru.demo_project.java_demo_project.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
